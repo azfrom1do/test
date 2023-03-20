@@ -67,7 +67,7 @@ public class practice_ex_1 {
 		System.out.print((x<y)+" ");
 		System.out.print((x<=y)+" ");
 		*/
-		
+		//https://github.com/zzangsupungdeng-i/test/blob/main/testtxt.txt
 	}
 
 }
