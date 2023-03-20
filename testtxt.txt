@@ -1,0 +1,72 @@
+package practice_1;
+import java.util.Scanner;
+
+public class practice_ex_1 {
+
+	public static void main(String[] args) {
+		
+		//입력문 스캐너
+		/*
+		Scanner sc = new  Scanner(System.in);
+		System.out.println("Hello world");
+		String str = sc.nextLine();
+		System.out.print(str);
+		*/
+		
+		
+		
+		/*
+		//변수 중 상수
+		final double PI = 3.141592;
+		//PI+=1;
+		*/
+		
+		
+		
+		//묹자열 출력문
+		/*
+		String str1 = "Hello";
+		String str2 = "World!";
+		System.out.println(str1+"\n"+str2);
+		String str3 = str1+str2;
+		System.out.println(str3);
+		*/
+		
+		
+		
+		//증감연산자
+		/*
+		int x=1;
+		int y=1;
+		int nextx = ++x;
+		int nexty = y++;
+		System.out.println(nextx);
+		System.out.println(nexty);
+		*/
+		
+		
+		
+		//논리연산자
+		/*
+		int x=3;
+		int y=4;
+		System.out.println((x==3)&&(y==7));
+		System.out.println((x==3)||(y==4));
+		*/
+		
+		
+		
+		//관계연산자
+		/*
+		int x=3;
+		int y=4;
+		System.out.print((x==y)+" ");
+		System.out.print((x!=y)+" ");
+		System.out.print((x>y)+" ");
+		System.out.print((x<y)+" ");
+		System.out.print((x<=y)+" ");
+		*/
+		
+	}
+
+}
